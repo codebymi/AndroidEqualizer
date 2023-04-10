@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorWindowBackground">#000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="light_gray">#eeeeee</color>
+    <color name="dark_grey">#9d9d9d</color>
+
+    <color name="oui_switch_on_color">#4caf50</color>
+    <color name="oui_switch_disable_color">@color/light_gray</color>
+    <color name="oui_switch_off_color">@color/dark_grey</color>
+
 </resources>
