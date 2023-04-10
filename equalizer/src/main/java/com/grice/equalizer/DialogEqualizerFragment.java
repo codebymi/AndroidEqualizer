@@ -1,4 +1,4 @@
-package com.bullhead.equalizer;
+package com.grice.equalizer;
 
 
 import android.annotation.SuppressLint;
@@ -34,6 +34,7 @@ import androidx.annotation.StringRes;
 import androidx.appcompat.widget.SwitchCompat;
 import androidx.fragment.app.DialogFragment;
 
+import com.bullhead.equalizer.R;
 import com.db.chart.model.LineSet;
 import com.db.chart.view.AxisController;
 import com.db.chart.view.ChartView;

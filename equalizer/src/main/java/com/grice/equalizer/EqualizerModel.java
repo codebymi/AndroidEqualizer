@@ -1,4 +1,4 @@
-package com.bullhead.equalizer;
+package com.grice.equalizer;
 
 import java.io.Serializable;
 

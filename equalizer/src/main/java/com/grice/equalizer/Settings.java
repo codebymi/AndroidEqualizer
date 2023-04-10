@@ -1,4 +1,4 @@
-package com.bullhead.equalizer;
+package com.grice.equalizer;
 
 public class Settings {
     public static boolean        isEqualizerEnabled  = true;

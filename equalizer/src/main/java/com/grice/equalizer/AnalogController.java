@@ -1,4 +1,4 @@
-package com.bullhead.equalizer;
+package com.grice.equalizer;
 
 import android.content.Context;
 import android.graphics.Canvas;

@@ -12,10 +12,10 @@ import android.view.MenuItem;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
-import com.bullhead.equalizer.DialogEqualizerFragment;
-import com.bullhead.equalizer.EqualizerFragment;
-import com.bullhead.equalizer.EqualizerModel;
-import com.bullhead.equalizer.Settings;
+import com.grice.equalizer.DialogEqualizerFragment;
+import com.grice.equalizer.EqualizerFragment;
+import com.grice.equalizer.EqualizerModel;
+import com.grice.equalizer.Settings;
 import com.google.gson.Gson;
 
 public class MainActivity extends AppCompatActivity {
